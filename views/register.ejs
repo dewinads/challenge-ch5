@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGISTER FORM</title>
+    <link rel="stylesheet" href="css/styleform.css">
+</head>
+<body>
+    <h1>Hello! Welcome to my Website</h1>
+        <div class="loginform">
+            <div class="form-box">
+                <button type="button" class="toggle-btn" onclick="login()">Please login here</button>
+
+                <form action="/register" method="post">
+                <form id="login" class="input-group">
+
+                    <div class="label1">
+                        <label for="username">Username</label>
+                        <input type="text" name="username" class="input-field" placeholder="Enter Username" required>
+                        <br />
+                    </div>
+
+                    <div class="label2">
+                        <label for="email">Email</label>
+                        <input type="email" name="email" class="input-field" placeholder="Enter Email" required>
+                        <br/>
+                    </div>
+
+                    <div class="label3">
+                        <label for="password">Password</label>
+                        <input type="password" name="password" class="input-field" placeholder="Enter Password" required>
+                        <br />
+                    </div>
+
+                        <button type="submit" class="submit-btn">Login</button>
+                    </form>
+                </div>
+            </div>  
+                </form>
+                
+</body>
+</html>

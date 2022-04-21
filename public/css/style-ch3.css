@@ -1,0 +1,291 @@
+h1 {
+    color: white;
+    font-size: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-top: 300px;
+}
+
+button {
+    background-color: rgb(255, 174, 0);
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    width: 170px;
+    height: 45px;
+    border: black 1px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.backgroundsatu {
+    background-image: url("/assets-ch3/main-bg.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+.paragrafsatu {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.backgrounddua {
+    background-image: url("/assets-ch3/the-games-bg.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+h2 {
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 100px;
+    padding-top: 220px;
+}
+
+.paragrafdua {
+    color: white;
+    text-align: left;
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+.carousel-indicators {
+    margin-bottom: 350px;
+    margin-left: 510px;
+}
+
+.carousel-inner{
+    margin-top: -90px;
+}
+
+.carousel-item {
+    height: 700px;
+    width: 700px;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.carousel-control-prev {
+    margin-left: 350px;
+    margin-top: 165px;
+}
+
+.carousel-control-next {
+    margin-right: 20px;
+    margin-top: 165px;
+}
+
+.backgroundtiga {
+    background-image: url("/assets-ch3/features.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+h3 {
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: right;
+    padding-top: 260px;
+    padding-right: 350px;
+}
+
+.paragraftiga {
+    color: white;
+    text-align: right;
+    font-size: 50px;
+    font-weight: lighter;
+    margin-top: -10px;
+    padding-right: 305px;
+    letter-spacing: 3px;
+}
+
+.tg {
+    color: orange;
+    text-align: right;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 100px;
+    margin-right: 215px;
+}
+
+.desc-tg {
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.gamesuit {
+    color: orange;
+    text-align: right;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 70px;
+    margin-right: 368px;
+}
+
+.tbd {
+    color: orange;
+    text-align: right;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 37px;
+    margin-right: 473px;
+    margin-bottom: 235px;
+}
+
+.backgroundempat {
+    background-image: url("/assets-ch3/requirements.png");
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+h4 {
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: left;
+    letter-spacing: 2px;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.paragrafempat {
+    color: white;
+    font-size: 15px;
+    text-transform: capitalize;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+}
+
+.col-6col-sm-3 {
+    color: orange;
+    border: white 1px solid;
+    font-size: 30px;
+    width: 500px;
+    height: 100px;
+}
+
+.desc-requirements {
+    color: white;
+    font-size: 20px;
+}
+
+.backgroundlima {
+    background-image: url("/assets-ch3/top-score-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+h5 {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 1px;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+
+.desc-topscore {
+    color: black;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 100px;
+}
+
+.btn-btn-warning {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+
+.card-title {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.backgroundenam {
+    background-color: black;
+    background-size: cover;
+    width: 100vw;
+    height: 150vh;
+}
+
+.stay-in-touch {
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+    padding-top: 100px;
+    margin-left: 100px;
+}
+
+h6 {
+    color: white;
+    font-size: 80px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+
+h7 {
+    color: white;
+    font-size: 80px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.paragrafenam {
+    color: white;
+    font-size: 23px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.col-6 {
+    color: white;
+    border: orange 1px solid;
+    width: 250px;
+    height: 60px;
+    margin-top: 50px;
+}
+
+.email-address {
+    color: orange;
+    font-size: 15px;
+}
+
+.btn-btn-warning2 {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 60px;
+    height: 60px;
+    width: 250px;
+}
